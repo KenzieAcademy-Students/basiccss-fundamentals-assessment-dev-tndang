@@ -1,0 +1,86 @@
+
+html,
+body {
+    font-size: 16px;
+}
+
+#contactDetails ul {
+    list-style: none;
+}
+
+.clear {
+    clear: both;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+#name h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+#name h2 {
+    font-size: 1.5em;
+}
+
+#headshot {
+    width: 12.5%;
+    float: left;
+    margin-right: 30px;
+}
+
+#headshot img {
+    width: 100%;
+}
+
+#name {
+    float: left;
+}
+
+#contactDetails {
+    float: right;
+}
+
+#contactDetails ul li {
+    font-size: 0.9em;
+    margin-bottom: 3px;
+}
+
+.sectionTitle {
+    float: left;
+    width: 25%;
+}
+
+.sectionContent {
+    float: right;
+    width: 72.5%;
+}
+
+.sectionTitle h1 {
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+.sectionContent h2 {
+    font-size: 1.5em;
+    margin-bottom: -2px;
+}
+
+.subDetails {
+    font-size: 0.8em;
+    font-style: italic;
+    margin-bottom: 3px;
+}
+
+.keySkills {
+    list-style-type: none;
+    column-count: 3;
+    font-size: 1em;
+}
+
+.keySkills ul li {
+    margin-bottom: 3px;
+}
