@@ -20,6 +20,16 @@ section, article {
     padding-bottom: 20px;
 }
 
+div:nth-child(4) {
+    border-bottom: 2px solid orange;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+section:not(:last-child) {
+    border-bottom: 1px solid rgba(255, 179, 0, 30%);
+}
+
 #contactDetails ul {
     list-style: none;
 }
