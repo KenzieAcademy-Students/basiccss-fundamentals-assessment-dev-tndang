@@ -6,6 +6,9 @@ body {
 
 body {
     font-family: Lato, Helvetica, Arial, sans-serif;
+    padding: 30px;
+    width: 800px;
+    margin: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
